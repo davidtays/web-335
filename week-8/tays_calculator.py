@@ -1,3 +1,10 @@
+# Author: David Tays 
+#		 Date:  06/19/2018  
+#		 modified by: David Tays
+#    Desc:  python functions and conditionals
+
+
+
 def intCheck(val1, val2):
     if type(val1) == int and type(val2) == int:
         return True
